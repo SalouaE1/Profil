@@ -11,3 +11,5 @@ Icônes Sociales : Les icônes des médias sociaux sont affichées dans cette se
 
 # Aperçu :
 https://codepen.io/SalouaE/pen/PoXwoWB
+
+![profil](https://github.com/SalouaE1/Profil/assets/139327537/ea89d23e-3363-423e-903a-9c81ea11f155)
