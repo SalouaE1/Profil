@@ -1,6 +1,8 @@
 # Page de Profil avec Icônes Sociales
 Il s'agit d'un projet HTML et CSS simple qui crée une page de profil .
+
 Il se compose d'une mise en page de page de profil conçue à l'aide de flexbox pour un comportement responsive. 
+
 Il comprend les éléments suivants :
 
 Image de Profil : Affiche une image de profil circulaire avec un rayon de bordure et un ajustement d'objet pour la couverture. L'image est centrée dans son conteneur.
