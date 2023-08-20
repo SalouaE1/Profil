@@ -1,0 +1,67 @@
+
+ .profile-container {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+  }
+  .profile-image {
+    flex: 1;
+    padding: 20px;
+  text-align: center; 
+    /* align-self: center; */
+ 
+  }
+  
+  .profile-image img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .profile-info {
+    flex: 2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .social-icons {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .social-icons img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    color: white;
+    font-size: 24px;
+    
+  }
+  
+  
+  .social-icons img:hover {
+     transform: translateY(-5px);
+   }
+   
+   .social-icons .fa-facebook {
+      background-color: #3B5998;
+   }
+   
+   .social-icons .fa-twitter {
+     background-color: #00aced;
+
+ }
+   
+   .social-icons .fa-instagram {
+     background-color: #007bb6;
+   }
